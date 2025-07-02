@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+
+# React/Vite/Builds
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
